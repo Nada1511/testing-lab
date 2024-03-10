@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalcTest::testcalculationOne":8},"times":{"CalcTest::testcalculationZero":0.011,"CalcTest::testcalculationOne":0.001,"CalcTest::testcalculationFive":0,"CalcTest::testcalculationRandomInt":0.001,"CalcTest::testcalculationNegative":0.002,"CalcTest::testcalculationFloat":0,"CalcTest::testcalculationFalse":0,"CalcTest::testcalculationString":0}}
